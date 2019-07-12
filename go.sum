@@ -1,0 +1,4 @@
+github.com/gopherjs/gopherjs v0.0.0-20190430165422-3e4dfb77656c h1:7lF+Vz0LqiRidnzC1Oq86fpX1q/iEv2KJdrCtttYjT4=
+github.com/gopherjs/gopherjs v0.0.0-20190430165422-3e4dfb77656c/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
+github.com/siongui/godom v0.0.0-20181006133514-8ba1cdb25192 h1:+H5lXLoRFOu/K/q8focJ8syTYjqEOaGwVJE6MpyKFPA=
+github.com/siongui/godom v0.0.0-20181006133514-8ba1cdb25192/go.mod h1:HlsL4IlMbIFM7fVEzc61bwE3Or1cNJzKZMDkO2xO9gA=
